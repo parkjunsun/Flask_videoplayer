@@ -16,7 +16,7 @@
 * ### 🚩 Transmission server로 파일 piece 다운로드
 <img src="https://user-images.githubusercontent.com/50009692/128603625-1f2acece-9531-492a-9439-8fc7475c3d37.PNG">
 
-* ### 🚩 개인 스트리밍 서버 Plex에 저장
+* ### 🚩 개인 스트리밍 서버(PLEX)에 저장
 <img src="https://user-images.githubusercontent.com/50009692/128603646-2cefaeae-da28-47f7-8326-66bc185f48d9.PNG">
 
 ***
