@@ -21,6 +21,13 @@
 
 ***
 
+## ⚒ 기술스택
+<img src="https://user-images.githubusercontent.com/50009692/128604988-3dfa36bc-5f59-437e-926c-0e5cad8fe4d4.PNG" height="100">
+
+<img src="https://user-images.githubusercontent.com/50009692/128605016-19ca1e6a-6ff8-4bf9-961d-1be75804ce5d.PNG" height="100">
+
+***
+
 ## ⛏ Installation
 
 * ### WEB (Ubuntu 16.04 기준)
