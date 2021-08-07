@@ -37,7 +37,7 @@ pip3 install flask
 * ### Transmission Server
 1. Transmission 서버 설치 (<https://transmissionbt.com/download/>)
 
-2. Transmission 서버 환경설정
+2. Transmission 서버 환경설정 (transmission_settings.json)
 ```json
 {
     "download-dir": "download될 root 디렉토리 경로",   
@@ -59,6 +59,8 @@ pip3 install flask
 ```
 
 3. 토렌트 시드 리스트 자동삭제(다운로드 O, 업로드 X) Shell Script
+
+✔transmission_settings.json 설정의 "/Document/Scripts/transmission-done.sh" 작성
 ```shell
 #!/bin/sh
 SERVER="9091 -n TID:TPASSWD"
