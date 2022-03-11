@@ -1,32 +1,50 @@
 ## 📺 Video DownLoad Service
 📼 웹에서 보고싶은 영상(영화, 예능, 드라마)을 클릭하면 Transmission 서버를 통해 다운로드를 받고 Plex서버에 영상을 저장하는 서비스
 
-***
+<br><br>
 
 ## 🚀 개발개요
 * 나만의 영상 스트리밍 서버를 만들고자 하는 마음에서 개발을 하게 되었다.
 * 기존 토렌트 사이트들은 도박 및 선정적인 광고로 도배 되있어서 사용하기 불편하다.
 
-***
+<br><br>
 
 ## 🏁 동작흐름
 * ### 🚩 Web에서 영화 선택
 <img src="https://user-images.githubusercontent.com/50009692/128603497-3009b19b-4a25-4160-bd02-117b13956818.PNG">
 
+<br>
+
 * ### 🚩 Transmission server로 파일 piece 다운로드
 <img src="https://user-images.githubusercontent.com/50009692/128603625-1f2acece-9531-492a-9439-8fc7475c3d37.PNG">
+
+<br>
 
 * ### 🚩 개인 스트리밍 서버(PLEX)에 저장
 <img src="https://user-images.githubusercontent.com/50009692/128603646-2cefaeae-da28-47f7-8326-66bc185f48d9.PNG">
 
-***
+<br><br>
 
 ## ⚒ 기술스택
-<img src="https://user-images.githubusercontent.com/50009692/128604988-3dfa36bc-5f59-437e-926c-0e5cad8fe4d4.PNG" height="100">
+* ### Backend
+   * Python
+   * Flask
+   * Jinja2
 
-<img src="https://user-images.githubusercontent.com/50009692/128605016-19ca1e6a-6ff8-4bf9-961d-1be75804ce5d.PNG" height="100">
+* ### DB & ORM
+   * MySQL
+   * SqlAlchemy
 
-***
+* ### Frontend
+   * HTML, CSS, Javascript
+   * jQuery
+
+* ### Infra
+   * CentOs8
+   * Plex Server (미디어 서버)
+   * Transmission Server (파일 조각 전송 서버)
+
+<
 
 ## ⛏ Installation
 
