@@ -11,16 +11,19 @@
 
 ## 🏁 동작흐름
 * ### 🚩 Web에서 영화 선택
+<br>
 <img src="https://user-images.githubusercontent.com/50009692/128603497-3009b19b-4a25-4160-bd02-117b13956818.PNG">
 
-<br>
+<br><br>
 
 * ### 🚩 Transmission server로 파일 piece 다운로드
+<br>
 <img src="https://user-images.githubusercontent.com/50009692/128603625-1f2acece-9531-492a-9439-8fc7475c3d37.PNG">
 
-<br>
+<br><br>
 
 * ### 🚩 개인 스트리밍 서버(PLEX)에 저장
+<br>
 <img src="https://user-images.githubusercontent.com/50009692/128603646-2cefaeae-da28-47f7-8326-66bc185f48d9.PNG">
 
 <br><br>
